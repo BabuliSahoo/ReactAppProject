@@ -7,19 +7,24 @@
     font-family: "Montserrat", sans-serif;
   }
   body {
-    background: #b42da7;
+    background: #f1ae91;
     padding: 0 16px;
   }
   
   header {
-    background-color: #f5ba13;
+    background-color: hsl(138, 65%, 70%);
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
   
   header h1 {
-    color: #fff;
+    color: #0f47ee;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+  }
+  header h2 {
+    color: #0f47ee;
     font-family: "McLaren", cursive;
     font-weight: 200;
   }
@@ -33,10 +38,10 @@
   }
   
   footer p {
-    color: #ccc;
+    color: #f71111;
   }
   .note {
-    background: #fff;
+    background: #da970f;
     border-radius: 7px;
     box-shadow: 0 2px 5px #ccc;
     padding: 10px;
