@@ -3,8 +3,9 @@ import React from "react";
 function Note() {
   return (
     <div className="note">
-      <h1>This is the note title</h1>
-      <p>This is the note content</p>
+      <h1>Babuli Sahoo</h1>
+      <h2>Itishree Sahoo</h2>
+      <p>Ishani Yashica Sahoo</p>
     </div>
   );
 }
