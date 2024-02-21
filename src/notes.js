@@ -36,22 +36,22 @@ const notes = [
     {
         key: 7,
         title: "IT Industry Reality",
-        content: "I will get back to you"
+        content: "I am working on that"
     },
     {
         key: 8,
         title: "IT Industry Reality",
-        content: "I will get back to you"
+        content: "Even I agree with you"
     },
     {
         key: 9,
         title: "IT Industry Reality",
-        content: "I will get back to you"
+        content: "Lets catch up separately"
     },
     {
         key: 10,
         title: "IT Industry Reality",
-        content: "I will get back to you"
+        content: "Don't share with anyone"
     }
   ];
   
