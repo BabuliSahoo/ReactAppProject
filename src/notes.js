@@ -2,7 +2,7 @@ const notes = [
     {
       key: 1,
       title: "IT Industry Reality",
-      content:"Let me check."
+      content:"I already spoke with management.Let me check."
     },
     {
       key: 2,
