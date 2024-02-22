@@ -53,8 +53,18 @@ const notes = [
         key: 11,
         title: "IT Industry Reality",
         content: "I am helping you."
+    }, 
+    {
+      key: 12,
+      title: "IT Industry Reality",
+      content: "You are not the only one.I am working for all."
+    }, 
+    {
+    key: 12,
+    title: "IT Industry Reality",
+    content: "If still you are not happy then you can reach out to higher management."
     }
-  ];
+ ];
   
   export default notes;
   
