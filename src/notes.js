@@ -1,32 +1,28 @@
 const notes = [
     {
       key: 1,
-      title: "Delegation",
-      content:
-        "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
+      title: "IT Industry Reality",
+      content:"Let me check."
     },
     {
       key: 2,
-      title: "Loops",
-      content:
-        "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
+      title: "IT Industry Reality",
+      content:"I am not asking you to work on weekends but there should not be any spillover."
     },
     {
       key: 3,
-      title: "Arrays",
-      content:
-        "Q. Why did the programmer quit his job? A. Because he didn't get arrays."
+      title: "IT Industry Reality",
+      content:"Company transition is going on."
     },
     {
       key: 4,
-      title: "Hardware vs. Software",
-      content:
-        "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+      title: "IT Industry Reality",
+      content:"I am not the only one who is taking the decision, there are other stake holders."
     },
     {
       key: 5,
-      title: "Big ideas",
-      content: "Eat more sushi"
+      title: "IT Industry Reality",
+      content: "You can reach out to them."
     },
     {
         key: 6,
@@ -52,6 +48,11 @@ const notes = [
         key: 10,
         title: "IT Industry Reality",
         content: "Don't share with anyone"
+    },
+    {
+        key: 11,
+        title: "IT Industry Reality",
+        content: "I am helping you."
     }
   ];
   
